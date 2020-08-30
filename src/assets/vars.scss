@@ -1,0 +1,13 @@
+%info-input {
+  border-radius: 6px;
+  border: 1px solid #dfe1e5;
+  padding: 10px;
+  outline: none;
+  margin-bottom: 14px;
+  background-color: #fff;
+  transition: all 0.3s;
+  &:focus,
+  &:hover {
+    border: 1px solid rgb(107, 107, 107);
+  }
+}
